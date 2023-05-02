@@ -24,3 +24,6 @@
 2번 사진 사용자 입력: 0
 
 ![image](https://user-images.githubusercontent.com/56586470/235640029-3f98910f-a16a-4d4d-a902-b4d36e06b0ad.png)
+
+![image](https://user-images.githubusercontent.com/56586470/235644075-37e19114-de91-4b54-9e92-a1c322af80ad.png)
+
