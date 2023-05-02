@@ -16,5 +16,6 @@
 입력: 1(기존 유지) or 0(옮기기) 
 
 1번 사진 사용자 입력: 1
-2번 사진 사용자 입력: 2
+2번 사진 사용자 입력: 0
 
+![image](https://user-images.githubusercontent.com/56586470/235640029-3f98910f-a16a-4d4d-a902-b4d36e06b0ad.png)
