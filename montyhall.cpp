@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     int count = 0;
-    cout << "±âÁ¸ÀÇ ¹®À» ±×´ë·Î ¼±ÅÃÇÒ °ÍÀÌ¶ó¸é 1, ¿Å±ä´Ù¸é 0" << '\n';
+    cout << "ê¸°ì¡´ì˜ ë¬¸ì„ ê·¸ëŒ€ë¡œ ì„ íƒí•  ê²ƒì´ë¼ë©´ 1, ì˜®ê¸´ë‹¤ë©´ 0" << '\n';
     bool doorChange = 0;
     cin >> doorChange;
     srand((unsigned int)time(NULL));
@@ -32,7 +32,7 @@ int main()
             count += choices[choice];
             choices.clear();
         }
-        cout << "½ºÆ÷Ã÷Ä«¸¦ ¼±ÅÃÇÒ È®·üÀº " << (double)count / 10000 << "% ÀÔ´Ï´Ù.";
+        cout << "ìŠ¤í¬ì¸ ì¹´ë¥¼ ì„ íƒí•  í™•ë¥ ì€ " << (double)count / 100 << "% ìž…ë‹ˆë‹¤.";
     }
     else {
         for (int n = 0; n < 10000; n++)
@@ -47,7 +47,7 @@ int main()
             count += choices[choice];
             choices.clear();
         }
-        cout << "½ºÆ÷Ã÷Ä«¸¦ ¼±ÅÃÇÒ È®·üÀº " << (double)count / 10000 << "% ÀÔ´Ï´Ù.";
+        cout << "ìŠ¤í¬ì¸ ì¹´ë¥¼ ì„ íƒí•  í™•ë¥ ì€ " << (double)count / 100 << "% ìž…ë‹ˆë‹¤.";
     }
     return 0;
 }
